@@ -27,7 +27,7 @@ export const categories = [
     id: 1,
     img: "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     title: "SHIRT STYLE!",
-    cat: "woman"
+    cat: "t-shirt"
   },
   {
     id: 2,
@@ -39,7 +39,7 @@ export const categories = [
     id: 3,
     img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
     title: "LIGHT JACKETS",
-    cat: "jeans"
+    cat: "woman"
   },
 ];
 
